@@ -1,0 +1,20 @@
+{
+  "name": "zerodha-trading-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vrushabh48/zerodha-trading-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vrushabh48/zerodha-trading-algorithm/issues"
+  },
+  "homepage": "https://github.com/Vrushabh48/zerodha-trading-algorithm#readme"
+}
